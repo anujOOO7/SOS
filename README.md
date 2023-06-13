@@ -75,7 +75,7 @@ This project also covers native desktop application development and database man
 
 ## Tech stack
 
-![image](https://github.com/Raj82862/read/blob/main/Frame%201.png)
+![image](https://github.com/Raj82862/SOS/blob/main/Untitled.png)
 
 ### Tools and Languages: 
 <p align="left"> 
