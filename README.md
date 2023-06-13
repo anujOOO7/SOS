@@ -17,11 +17,9 @@
 * This project aims to increase energy generation, improve system efficiency, enhance return on investment for solar installations and automate the traditionally traditionally used fixed solar panels giving them seasonal adaptability with the help of flexibility in system design. 
 
 ## Scope of the project 
-Facial recognition is becoming more prominent in our society. It has made major progress in the field of security. 
-Face detection may be used for a broad range of purposes, from defense to ads.
-Law enforcement by gathering mugshots can evaluate local, national, and federal assets repositories too.
-This project servers as a foundation for future projects based on facial detection and recognition. 
-This project also covers native desktop application development and database management with a user-friendly UI. Using this system any school and organization can replace their traditional way of maintaining attendance of the employees and can also generate their availability(presence) report throughout the month. It could be used to help in the authentication workflow.
+
+<br /><br />
+The scope of the solar orienting system project includes designing, installing, and integrating a solar tracking system that maximizes energy production by adjusting the orientation of solar panels to follow the sun's movement. This involves conducting a site assessment, selecting appropriate equipment, and developing control algorithms for precise tracking. The project also encompasses testing, calibration, and performance monitoring to ensure optimal functionality and efficiency. Documentation, training, and project management are essential for successful implementation. Post-implementation support may be provided to ensure long-term system performance. The specific scope will depend on factors such as the installation site, budget, and project objectives.
 
 [![Generic badge](https://img.shields.io/badge/view-demo-blue?style=for-the-badge&label=View%20Demo%20Video)]() 
 
