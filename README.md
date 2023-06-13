@@ -1,16 +1,14 @@
-# SOS
+# Solar Orienting System
 ## A mechanism that tracks the movement of the Sun to optimize Solar Panel Efficiency.
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Apurva-tech/unite?logo=github&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/Raj82862/Raj82862?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Apurva-tech/unite?style=for-the-badge)
-![My stars](https://img.shields.io/github/stars/Apurva-tech?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=My%20stars)
-![GitHub forks](https://img.shields.io/github/forks/Apurva-tech/unite?style=for-the-badge&logo=git)
-![Code size](https://img.shields.io/github/languages/code-size/Apurva-tech/unite?style=for-the-badge)
-![Languages](https://img.shields.io/github/languages/count/Apurva-tech/unite?style=for-the-badge)
-![Top](https://img.shields.io/github/languages/top/Apurva-tech/unite?style=for-the-badge&label=Top%20Languages)
-![Issues](https://img.shields.io/github/issues/Apurva-tech/unite?style=for-the-badge&label=Issues)
-![Watchers](https://img.shields.io/github/watchers/Apurva-tech/unite?label=Watch&style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Raj82862/SOS)
+![GitHub last commit](https://img.shields.io/github/last-commit/Raj82862/SOS)
+![GitHub stars](https://img.shields.io/packagist/stars/Raj82862/SOS)
+![GitHub forks](https://img.shields.io/github/forks/Raj82862/SOS)
+![Languages](https://img.shields.io/sourceforge/languages/SOS)
+![Top](https://img.shields.io/github/languages/top/Raj82862/SOS)
+![Issues](https://img.shields.io/github/issues/Raj82862/SOS)
+![Watchers](https://img.shields.io/github/watchers/Raj82862/SOS)
 
 * This project involves building an attendance system which utilizes facial recognition to mark the presence, time-in, and time-out of students. It covers areas such as facial detection, alignment, and recognition, along with the development of a native desktop application to cater to various use cases of the system such as registration of new students, addition of photos to the training dataset, viewing attendance reports, etc. 
 
@@ -90,7 +88,7 @@ This project also covers native desktop application development and database man
 
 ## Need help?
 
-Feel free to contact me on <br /><br />
+Feel free to contact me on : <br /><br />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-more-50b543202/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rajenterprises.pm) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RajMore06) [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajm.ug20.ece@nitp.ac.in)
 
 ---------
