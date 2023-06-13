@@ -81,6 +81,8 @@ The scope of the solar orienting system project includes designing, installing, 
 ## Useful Links
 
 - [Demo Video]()
+- [Presentation]()
+- [Internal Circuit Design]()
 
 ## Need help?
 
