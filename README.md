@@ -21,8 +21,6 @@ Electricity, the wondrous force that powers our modern world, is a truly diverse
 <br /><br />
 The scope of the solar orienting system project includes designing, installing, and integrating a solar tracking system that maximizes energy production by adjusting the orientation of solar panels to follow the sun's movement. This involves conducting a site assessment, selecting appropriate equipment, and developing control algorithms for precise tracking. The project also encompasses testing, calibration, and performance monitoring to ensure optimal functionality and efficiency. Documentation, training, and project management are essential for successful implementation. Post-implementation support may be provided to ensure long-term system performance. The specific scope will depend on factors such as the installation site, budget, and project objectives.
 
-[![Generic badge](https://img.shields.io/badge/view-demo-blue?style=for-the-badge&label=View%20Demo%20Video)]() 
-
 ## Features and Interfaces
 
 1. Landing Page
@@ -73,7 +71,7 @@ The scope of the solar orienting system project includes designing, installing, 
 
 ![image](https://github.com/Raj82862/SOS/blob/main/Untitled.png)
 
-## Tools and Languages
+## Tools and Technologies
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
