@@ -10,11 +10,11 @@
 ![Issues](https://img.shields.io/github/issues/Raj82862/SOS)
 ![Watchers](https://img.shields.io/github/watchers/Raj82862/SOS)
 
-* This project involves building an attendance system which utilizes facial recognition to mark the presence, time-in, and time-out of students. It covers areas such as facial detection, alignment, and recognition, along with the development of a native desktop application to cater to various use cases of the system such as registration of new students, addition of photos to the training dataset, viewing attendance reports, etc. 
+* This project involves building a solar tracking system, a technology used to maximize the efficiency of solar panels by automatically adjusting their orientation to follow the movement of the sun throughout the day. By continuously aligning the solar panels with the sun's position, solar orienting systems can significantly increase the amount of sunlight captured and convert it into usable energy.
 
-* This project intends to serve as an efficient substitute for traditional manual attendance systems. It can be used in corporate offices, schools, and organizations where security is essential.
+* This project intends to utilize various sensors and control mechanisms to accurately track the sun's position ans serve as an efficient substitute for traditionally used fixed solar panels.
 
-* This project aims to automate the traditional attendance system where the attendance is marked manually. It also enables an organization to maintain its records like in-time, out time, break time and attendance digitally. Its added features serve as an efficient upgrade and replacement over the traditional attendance system.
+* This project aims to increase energy generation, improve system efficiency, enhance return on investment for solar installations and automate the traditionally traditionally used fixed solar panels giving them seasonal adaptability with the help of flexibility in system design. 
 
 ## Scope of the project 
 Facial recognition is becoming more prominent in our society. It has made major progress in the field of security. 
