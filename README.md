@@ -21,51 +21,19 @@ Electricity, the wondrous force that powers our modern world, is a truly diverse
 <br /><br />
 The scope of the solar orienting system project includes designing, installing, and integrating a solar tracking system that maximizes energy production by adjusting the orientation of solar panels to follow the sun's movement. This involves conducting a site assessment, selecting appropriate equipment, and developing control algorithms for precise tracking. The project also encompasses testing, calibration, and performance monitoring to ensure optimal functionality and efficiency. Documentation, training, and project management are essential for successful implementation. Post-implementation support may be provided to ensure long-term system performance. The specific scope will depend on factors such as the installation site, budget, and project objectives.
 
-## Features and Interfaces
-
-1. Landing Page
-   
+## Features
    - Login Section
-     - Flawless landing page with `Login` button for user Login
-   ![image]()
-
    - Registration Section 
-     - Has a New User Registration Option for New Users to input their Details
-   ![image]()
-   
    - Forget Password Section
-     - For the ones who did forget their password, one can reset the passsword using `Security Question`
-   ![image]()
    
-2. Home Page
-
-   ![image]()
-
-   - Student Details 
-     - To register new students into the system and to view the details of already registered students
-   ![image]()
-
+## Sensors Used
+   - Student Details
    - Face Detector 
-     - Detects the face, if a registered face is recognized, it marks the attendance
-    ![image]()
-
    - Attendance 
-     - It shows the attendance by importing it from the csv file
-    ![image]()
-
    - Chat Bot 
-     - For clearing basic queries regarding the project
-    ![image]()
-
    - Train Data 
-     - Trains the data sets into the server
-    ![image]()
-
    - Photos
-     - To view the registered data faces
-   
    - Exit
-     - To exit the application
 
 ## Tech stack
 
