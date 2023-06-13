@@ -14,7 +14,7 @@
 
 * This project intends to utilize various sensors and control mechanisms to accurately track the sun's position ans serve as an efficient substitute for traditionally used fixed solar panels.
 
-* This project aims to increase energy generation, improve system efficiency, enhance return on investment for solar installations and automate the traditionally traditionally used fixed solar panels giving them seasonal adaptability with the help of flexibility in system design. 
+* This project aims to increase energy generation, improve system efficiency, enhance return on investment for solar installations and automate the traditionally used fixed solar panels giving them seasonal adaptability with the help of flexibility in system design. 
 
 ## Scope of the project 
 Electricity, the wondrous force that powers our modern world, is a truly diverse and multifaceted phenomenon. It is a captivating fusion of science, engineering, and innovation, constantly evolving and diversifying to meet our ever-growing needs. From the moment electricity was harnessed and tamed, its transformative capabilities have reshaped every aspect of human existence.In this era of diversification, electricity holds the key to a sustainable and vibrant future. The blending of traditional and renewable sources, combined with innovative technologies and smart systems, ushers in a new age of electricity generation and utilization. With the growing needs of the world, come new challenges and forces us to harness more and more power introducing various ideas to minimise wastage of available resources and ours is one amongst these.
