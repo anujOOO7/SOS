@@ -26,14 +26,14 @@ The scope of the solar orienting system project includes designing, installing, 
    - 
    - 
    
-## Sensors Used
-   - 
-   - 
-   - 
-   - 
-   - 
-   - 
-   - 
+## Electronic Components & Sensors Used
+   - Arduino Uno R3
+   - Stepper Motors
+   - Light Dependant Resistors
+   - Solar Panel
+   - BreadBoard
+   - Jumper Wires
+   - Battery, LEDs etc.
 
 ## Tech stack
 
