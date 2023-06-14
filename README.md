@@ -22,9 +22,9 @@ Electricity, the wondrous force that powers our modern world, is a truly diverse
 The scope of the solar orienting system project includes designing, installing, and integrating a solar tracking system that maximizes energy production by adjusting the orientation of solar panels to follow the sun's movement. This involves conducting a site assessment, selecting appropriate equipment, and developing control algorithms for precise tracking. The project also encompasses testing, calibration, and performance monitoring to ensure optimal functionality and efficiency. Documentation, training, and project management are essential for successful implementation. Post-implementation support may be provided to ensure long-term system performance. The specific scope will depend on factors such as the installation site, budget, and project objectives.
 
 ## Features
-   - 
-   - 
-   - 
+   - The system includes a mechanism that allows the solar panels to move and change their orientation to follow the sun's path across the sky.
+   - Dual-axis design: Tracks the sun's movement in both the azimuth and elevation directions, providing more precise alignment.
+   - To accurately track the sun's position, sensors and controllers like LDRs are employed which gather data on the sun's position and then this data is analyzed and commands are sent to adjust the position of the solar panels accordingly.
    
 ## Electronic Components & Sensors Used
    - Arduino Uno R3
