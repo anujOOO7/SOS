@@ -50,7 +50,7 @@ The scope of the solar orienting system project includes designing, installing, 
 ## Useful Links
 
 - [Demo Video]()
-- [Presentation]()
+- [Presentation](https://github.com/Raj82862/SOS/blob/main/SOS.pdf)
 - [Internal Circuit Design]()
 
 ## Need Help?
