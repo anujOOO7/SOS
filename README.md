@@ -16,7 +16,7 @@
 
 * This project aims to increase energy generation, improve system efficiency, enhance return on investment for solar installations and automate the traditionally used fixed solar panels giving them seasonal adaptability with the help of flexibility in system design. 
 
-## Scope of the project 
+## Scope of the Project 
 Electricity, the wondrous force that powers our modern world, is a truly diverse and multifaceted phenomenon. It is a captivating fusion of science, engineering, and innovation, constantly evolving and diversifying to meet our ever-growing needs. From the moment electricity was harnessed and tamed, its transformative capabilities have reshaped every aspect of human existence.In this era of diversification, electricity holds the key to a sustainable and vibrant future. The blending of traditional and renewable sources, combined with innovative technologies and smart systems, ushers in a new age of electricity generation and utilization. With the growing needs of the world, come new challenges and forces us to harness more and more power introducing various ideas to minimise wastage of available resources and ours is one amongst these.
 <br /><br />
 The scope of the solar orienting system project includes designing, installing, and integrating a solar tracking system that maximizes energy production by adjusting the orientation of solar panels to follow the sun's movement. This involves conducting a site assessment, selecting appropriate equipment, and developing control algorithms for precise tracking. The project also encompasses testing, calibration, and performance monitoring to ensure optimal functionality and efficiency. Documentation, training, and project management are essential for successful implementation. Post-implementation support may be provided to ensure long-term system performance. The specific scope will depend on factors such as the installation site, budget, and project objectives.
@@ -36,7 +36,7 @@ The scope of the solar orienting system project includes designing, installing, 
    - Jumper Wires
    - Battery, LEDs etc.
 
-## Tech stack
+## Tech Stack
 
 ![image](https://github.com/Raj82862/SOS/blob/main/TechStack.png)
 
@@ -53,7 +53,7 @@ The scope of the solar orienting system project includes designing, installing, 
 - [Presentation]()
 - [Internal Circuit Design]()
 
-## Need help?
+## Need Help?
 
 Feel free to contact me on : <br /><br />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-more-50b543202/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rajenterprises.pm) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RajMore06) [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajm.ug20.ece@nitp.ac.in)
