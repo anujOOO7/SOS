@@ -38,7 +38,7 @@ The scope of the solar orienting system project includes designing, installing, 
 
 ## Tech stack
 
-![image](https://github.com/Raj82862/SOS/blob/main/Untitled.png)
+![image](https://github.com/Raj82862/SOS/blob/main/TechStack.png)
 
 ## Tools and Technologies
 <p align="left"> 
