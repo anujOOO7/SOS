@@ -40,7 +40,7 @@ The scope of the solar orienting system project includes designing, installing, 
 
 ![image](https://github.com/Raj82862/SOS/blob/main/TechStack.png)
 
-## Tools and Technologies
+## Tools & Technologies
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
