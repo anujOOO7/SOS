@@ -25,6 +25,7 @@ The scope of the solar orienting system project includes designing, installing, 
    - The system includes a mechanism that allows the solar panels to move and change their orientation to follow the sun's path across the sky.
    - Dual-axis design: Tracks the sun's movement in both the azimuth and elevation directions, providing more precise alignment.
    - To accurately track the sun's position, sensors and controllers like LDRs are employed which gather data on the sun's position and then this data is analyzed and commands are sent to adjust the position of the solar panels accordingly.
+   - The speed of rotation about the axes can be controlled as stepper motors are employed.
    
 ## Electronic Components & Sensors Used
    - Arduino Uno R3
