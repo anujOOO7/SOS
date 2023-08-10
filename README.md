@@ -12,7 +12,7 @@
 
 * This project involves building a solar tracking system, a technology used to maximize the efficiency of solar panels by automatically adjusting their orientation to follow the movement of the sun throughout the day. By continuously aligning the solar panels with the sun's position, solar orienting systems can significantly increase the amount of sunlight captured and convert it into usable energy.
 
-* This project intends to utilize various sensors and control mechanisms to accurately track the sun's position ans serve as an efficient substitute for traditionally used fixed solar panels.
+* This project intends to utilize various sensors and control mechanisms to accurately track the sun's position and serve as an efficient substitute for traditionally used fixed solar panels.
 
 * This project aims to increase energy generation, improve system efficiency, enhance return on investment for solar installations and automate the traditionally used fixed solar panels giving them seasonal adaptability with the help of flexibility in system design. 
 
