@@ -1,14 +1,14 @@
 # Solar Orienting System
 ## A mechanism that tracks the movement of the Sun to optimize Solar Panel Efficiency.
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Raj82862/SOS)
-![GitHub last commit](https://img.shields.io/github/last-commit/Raj82862/SOS)
-![GitHub stars](https://img.shields.io/packagist/stars/Raj82862/SOS)
-![GitHub forks](https://img.shields.io/github/forks/Raj82862/SOS)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/anujOOO7/SOS)
+![GitHub last commit](https://img.shields.io/github/last-commit/anujOOO7/SOS)
+![GitHub stars](https://img.shields.io/packagist/stars/anujOOO7/SOS)
+![GitHub forks](https://img.shields.io/github/forks/anujOOO7/SOS)
 ![Languages](https://img.shields.io/sourceforge/languages/SOS)
-![Top](https://img.shields.io/github/languages/top/Raj82862/SOS)
-![Issues](https://img.shields.io/github/issues/Raj82862/SOS)
-![Watchers](https://img.shields.io/github/watchers/Raj82862/SOS)
+![Top](https://img.shields.io/github/languages/top/anujOOO7/SOS)
+![Issues](https://img.shields.io/github/issues/anujOOO7/SOS)
+![Watchers](https://img.shields.io/github/watchers/anujOOO7/SOS)
 
 * This project involves building a solar tracking system, a technology used to maximize the efficiency of solar panels by automatically adjusting their orientation to follow the movement of the sun throughout the day. By continuously aligning the solar panels with the sun's position, solar orienting systems can significantly increase the amount of sunlight captured and convert it into usable energy.
 
@@ -42,7 +42,7 @@ The scope of the solar orienting system project includes designing, installing, 
 
 ## Tech Stack
 
-![image](https://github.com/Raj82862/SOS/blob/main/TechStack.png)
+![image](https://github.com/anujOOO7/SOS/blob/main/TechStack.png)
 
 ## Tools & Technologies
 <p align="left"> 
@@ -54,14 +54,14 @@ The scope of the solar orienting system project includes designing, installing, 
 ## Useful Links
 
 - [Demo Video]()
-- [Presentation](https://github.com/Raj82862/SOS/blob/main/SOS.pdf)
+- [Presentation](https://github.com/anujOOO7/SOS/blob/main/SOS.pdf)
 - [Internal Circuit Design]()
 
 
 ## Need Help?
 
 Feel free to contact me on : <br /><br />
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-more-50b543202/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rajenterprises.pm) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RajMore06) [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajm.ug20.ece@nitp.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj652cr07/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anuj2004185) [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujk.ug20.ece@nitp.ac.in)
 
 ---------
 
